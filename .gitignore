@@ -1,0 +1,16 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Execution / Verification Logs
+verification_log.txt
